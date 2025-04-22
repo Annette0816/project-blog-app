@@ -1,11 +1,6 @@
 *{
   background-color:beige;
 }
-#title{
-  display: flex;
-  justify-content:center;
-  align-content: center;
-}
 .blog-form-container {
   background-color: #ffffff;
   padding: 25px;
